@@ -3,9 +3,9 @@ import { ArrowLeft } from "lucide-react";
 
 const Contact = () => {
   const contacts = [
-    { label: "Email", value: "your.email@example.com", href: "mailto:your.email@example.com" },
-    { label: "LinkedIn", value: "linkedin.com/in/yourname", href: "https://linkedin.com/in/yourname" },
-    { label: "Instagram", value: "@yourhandle", href: "https://instagram.com/yourhandle" },
+    { label: "Email", value: "nurnur006@gmail.com", href: "mailto:nurnur006@gmail.com" },
+    { label: "LinkedIn", value: "linkedin.com/in/nur-nursen", href: "https://linkedin.com/in/nur-nursen" },
+    { label: "Instagram", value: "@nurfurpur", href: "https://instagram.com/nurfurpur" },
   ];
 
   return (
@@ -24,7 +24,7 @@ const Contact = () => {
         </h1>
 
         <p className="font-sans text-lg text-muted-foreground mb-12 max-w-xl">
-          Feel free to reach out — I'd love to connect and hear from you.
+          Here are the links where you can connect with me. I'd be happy to have a chat and be able to showcase some of my projects with you.
         </p>
 
         <div className="space-y-8">

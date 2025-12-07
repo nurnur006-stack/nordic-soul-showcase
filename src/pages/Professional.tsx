@@ -23,14 +23,14 @@ const Professional = () => {
           </h2>
           <div className="space-y-8">
             <div className="border-l-2 border-border pl-6">
-              <p className="font-sans text-sm text-muted-foreground mb-1">2022 — Present</p>
-              <h3 className="font-serif text-xl mb-2">Your University</h3>
-              <p className="font-sans text-muted-foreground">Marketing & Business Administration</p>
+              <p className="font-sans text-sm text-muted-foreground mb-1">2023 — Present</p>
+              <h3 className="font-serif text-xl mb-2">Bi Handeløyskolen Oslo - Bachelor of Digital Business</h3>
+              <p className="font-sans text-muted-foreground">Relevant courses: Digital Marketing, Marketing Communication, Project management, Organizational Behavior & leadership, Social Media & Society, Marketing Management & Strategy </p>
             </div>
             <div className="border-l-2 border-border pl-6">
-              <p className="font-sans text-sm text-muted-foreground mb-1">2019 — 2022</p>
-              <h3 className="font-serif text-xl mb-2">Your High School</h3>
-              <p className="font-sans text-muted-foreground">Add your focus or achievements here</p>
+              <p className="font-sans text-sm text-muted-foreground mb-1">2017 — 2023</p>
+              <h3 className="font-serif text-xl mb-2">International Gateway Academy & Kvitsund Gymnas</h3>
+              <p className="font-sans text-muted-foreground">American Curriculum & Studiespesialisering </p>
             </div>
           </div>
         </section>
@@ -41,14 +41,14 @@ const Professional = () => {
           </h2>
           <div className="space-y-8">
             <div className="border-l-2 border-border pl-6">
-              <p className="font-sans text-sm text-muted-foreground mb-1">Summer 2023</p>
-              <h3 className="font-serif text-xl mb-2">Your Role / Company</h3>
-              <p className="font-sans text-muted-foreground">Describe your responsibilities and achievements here.</p>
+              <p className="font-sans text-sm text-muted-foreground mb-1">Juni 2023 til d.d</p>
+              <h3 className="font-serif text-xl mb-2">Creative Media Strategist / Monkey Wizard</h3>
+              <p className="font-sans text-muted-foreground">Copywriting, Campaign production from start to finish,  Ad account management, Reporting and insight gathering, Newsletter creation and management, Landing page optimization </p>
             </div>
             <div className="border-l-2 border-border pl-6">
-              <p className="font-sans text-sm text-muted-foreground mb-1">2021 — 2022</p>
-              <h3 className="font-serif text-xl mb-2">Another Role / Company</h3>
-              <p className="font-sans text-muted-foreground">Add more experiences as needed.</p>
+              <p className="font-sans text-sm text-muted-foreground mb-1">Juli 2023 - Oktober 2023</p>
+              <h3 className="font-serif text-xl mb-2"> Support Associate / Wolt</h3>
+              <p className="font-sans text-muted-foreground"> Customer service, Logistics management, Client management</p>
             </div>
           </div>
         </section>

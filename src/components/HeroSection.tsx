@@ -8,7 +8,7 @@ const HeroSection = () => {
           </p>
           
           <h1 className="heading-xl">
-            Your Name
+            Nur Nursen
           </h1>
           
           <div className="w-16 h-px bg-border mx-auto" />

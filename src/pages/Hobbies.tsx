@@ -4,9 +4,9 @@ import { ArrowLeft } from "lucide-react";
 const Hobbies = () => {
   const hobbies = [
     {
-      title: "Your First Hobby",
+      title: "Cycling",
       description: "Add a description of this hobby and what it means to you.",
-      images: ["/placeholder.svg", "/placeholder.svg", "/placeholder.svg"],
+      images: ["/cycling/cycling1.jpg", "/placeholder.svg", "/placeholder.svg"],
     },
     {
       title: "Your Second Hobby",

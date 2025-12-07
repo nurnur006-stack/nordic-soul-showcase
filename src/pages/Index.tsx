@@ -12,10 +12,10 @@ const Index = () => {
     <main className="min-h-screen flex flex-col items-center justify-center px-6">
       <div className="text-center mb-16 animate-fade-in">
         <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-light tracking-wide mb-4">
-          Your Name
+          Nur Nursen
         </h1>
         <p className="font-sans text-sm md:text-base text-muted-foreground tracking-widest uppercase">
-          Marketing Business Student
+          Marketing Business Student at BI
         </p>
       </div>
 
